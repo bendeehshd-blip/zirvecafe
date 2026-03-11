@@ -1,0 +1,20 @@
+{
+  "name": "Zirve Cafe",
+  "short_name": "Zirve",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0a09",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/zirveicon/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/zirveicon/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
